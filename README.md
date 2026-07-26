@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Apex-Studio-He&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub stats" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apex-Studio-He&theme=tokyonight" alt="GitHub summary stats" />
 <img height="175" src="https://streak-stats.demolab.com?user=Apex-Studio-He&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 
 <br />
