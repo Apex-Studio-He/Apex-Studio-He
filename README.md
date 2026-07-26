@@ -16,36 +16,6 @@
 
 </div>
 
-## 🧰 Technologies & Tools
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,go,java,js,ts,html,css,cpp&theme=dark&perline=8" alt="Languages" />
-
-### Frameworks · Data · Infrastructure
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,mysql,postgres,mongodb,docker,linux,git&theme=dark&perline=8" alt="Frameworks, data and infrastructure" />
-
-### Workspace
-
-<img src="https://skillicons.dev/icons?i=vscode,vim,github,bash&theme=dark&perline=8" alt="Workspace tools" />
-
-</div>
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Apex-Studio-He/Apex-Studio-He/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Apex-Studio-He/Apex-Studio-He/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Apex-Studio-He/Apex-Studio-He/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
 ## 🎐 Visitors
 
 <div align="center">
