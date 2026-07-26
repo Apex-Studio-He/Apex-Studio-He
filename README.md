@@ -16,15 +16,6 @@
 
 </div>
 
-## 👋 About this space
-
-这里记录正在构建的想法、代码与实验。保持好奇，持续学习，把想法变成真正能运行的东西。
-
-- 🔭 Building useful things, one commit at a time
-- 🌱 Always learning and exploring better solutions
-- 🧩 Interested in software, automation, hardware and open source
-- ⚡ Motto: make it work, make it clear, make it better
-
 ## 🧰 Technologies & Tools
 
 <div align="center">
@@ -40,19 +31,6 @@
 ### Workspace
 
 <img src="https://skillicons.dev/icons?i=vscode,vim,github,bash&theme=dark&perline=8" alt="Workspace tools" />
-
-</div>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apex-Studio-He&theme=tokyonight" alt="GitHub summary stats" />
-<img height="175" src="https://streak-stats.demolab.com?user=Apex-Studio-He&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-
-<br />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Apex-Studio-He&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
